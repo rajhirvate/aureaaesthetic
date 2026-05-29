@@ -56,7 +56,7 @@ export const CLINIC_INFO = {
   doctor: "Dr. Pratima Unawane",
   doctorTitle: "Founder & Lead Aesthetic Specialist",
   doctorBio: "Dr. Pratima Unawane is a highly qualified and trusted medical aesthetic practitioner in Kurla, Mumbai. She holds dedicated expertise in advanced non-surgical clinical dermatology, customized skin rejuvenation therapies, state-of-the-art laser treatments, and hair preservation protocols.",
-  doctorDegree: "BAMS, MD, Post Graduate Diploma in Clinical Cosmetology & Aesthetics",
+  doctorDegree: "BAMS, Post Graduate Diploma in Clinical Cosmetology & Aesthetics",
   address: "Gate No. 4, Pearl Hans Residency, Shop No. 2, Opp. Phoenix Mall, Beside Hotel Naaz, Kurla West, Kurla, Mumbai, Maharashtra 400070",
   phone: "088505 78769",
   whatsapp: "088505 78769",

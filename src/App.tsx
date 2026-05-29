@@ -54,7 +54,7 @@ export default function App() {
         break;
       case "about":
         titleStr = "Dr. Pratima Unawane | Founder & Lead Specialist - Aurea Aesthetic Mumbai";
-        descStr = "Meet Dr. Pratima Unawane, BAMS, MD, PG Diploma in Clinical Cosmetology & Aesthetics. Learn about her ethical, science-backed approach to clinical beauty.";
+        descStr = "Meet Dr. Pratima Unawane, BAMS, PG Diploma in Clinical Cosmetology & Aesthetics. Learn about her ethical, science-backed approach to clinical beauty.";
         break;
       case "skin":
         titleStr = "Dermatologist Recommended Skin & Acne Scar Treatments | Kurla Mumbai";
@@ -385,7 +385,7 @@ function HomeView({ onOpenBooking, onKnowMore, onSetPage, beforeAfterActive, onT
                   <div className="min-w-0">
                     <span className="block text-[8px] uppercase tracking-wider font-mono text-brand-gold-light">Consulting Specialist</span>
                     <span className="block text-xs font-semibold text-white font-serif truncate">{CLINIC_INFO.doctor}</span>
-                    <span className="block text-[9px] text-brand-rose/80 truncate">BAMS, MD, PG Cosmetology</span>
+                    <span className="block text-[9px] text-brand-rose/80 truncate">BAMS, PG Cosmetology</span>
                   </div>
                 </div>
 
@@ -451,7 +451,7 @@ function HomeView({ onOpenBooking, onKnowMore, onSetPage, beforeAfterActive, onT
               <div className="flex gap-2.5 items-start">
                 <CheckCircle2 className="w-5 h-5 text-brand-gold shrink-0 mt-0.5" />
                 <p className="text-xs text-brand-gray">
-                  <strong>BAMS, MD Post Graduate Expertise</strong>: Specialised in identifying scalp dermal structures and cellular melanin density triggers.
+                  <strong>BAMS, Post Graduate Expertise</strong>: Specialised in identifying scalp dermal structures and cellular melanin density triggers.
                 </p>
               </div>
               <div className="flex gap-2.5 items-start">
@@ -891,7 +891,7 @@ function AboutView({ onSetPage, onOpenBooking }: AboutViewProps) {
             Dr. Pratima Unawane
           </h1>
           <p className="text-xs uppercase font-mono font-semibold text-brand-gold">
-            BAMS, MD, Post Graduate Diploma in Clinical Cosmetology & Aesthetics
+            BAMS, Post Graduate Diploma in Clinical Cosmetology & Aesthetics
           </p>
           <p className="text-sm text-brand-gray leading-relaxed">
             Dr. Pratima is standardizing aesthetic and dermatological practice in Kurla, Mumbai with an ethical focus, rejecting commercial schemes or unauthentic miracles. She prides herself on offering structured physiological tracking, custom biochemical skincare formulation recommendations, and advanced clinical equipment therapies.
