@@ -1,0 +1,6 @@
+{
+  "name": "Aurea Aesthetic Clinic",
+  "description": "Premium Skin, Hair & Laser Aesthetic Clinic led by Dr. Pratima Unawane in Kurla West, Mumbai, opposite Phoenix Mall.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
